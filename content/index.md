@@ -2,4 +2,4 @@
 title: Welcome to Quartz
 ---
 
-ignorez ce document
+ALLEZ DIRECTEMENT SUR [[_Page d'accueil - Cours de socio]]
