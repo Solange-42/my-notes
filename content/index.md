@@ -11,6 +11,6 @@ title: Page d'accueil - Cours de socio de Solange
 
 - MOC = Map Of Content. En gros c'est un index quoi
 
-/!\ Je n'ai pas encore fini de mettre tout mes cours car je suis une noob et je dois transvaser chaque page manuellement
+/!\ Je n'ai pas encore fini de mettre tous mes cours car je suis une noob et je dois transvaser chaque page manuellement
 
 https://solange-42.github.io/my-notes
